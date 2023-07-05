@@ -11,7 +11,9 @@
                     src="/img/vue-logo.png" 
                     alt="vue logo">
             </p>
-            <a class="text-white text-center fs-4 mt-4 m-md-0" href="https://github.com/JDamianCabello/guitar-shop-vue">Repo link</a>
+            <p class="text-white text-center fs-4 mt-4 m-md-0">
+                <a href="https://github.com/JDamianCabello/guitar-shop-vue" target=”_blank”>Repo link</a>
+            </p>
         </div>
     </footer>
 </template>
